@@ -13,5 +13,9 @@ pertama siapkan  VSCODE dan Browser
 Selanjutnya buka file tersebut menggunakan browser.Disini saya menggunakan <b> Google Chrome </b>
 ![p](gambar/1.png.PNG)
 
+## 1. Membuat Paragraf Baru
+Buatlah paragraf baru sederhana seperti berikut ini.dan kemudian lihat hasilnya dengan menrefresh pada web browser
+sebelum jadi
+![p](gambar/gb.11.png.PNG)
 
 

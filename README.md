@@ -31,4 +31,10 @@ Dan hasilnya akan seperti ini
 
 ![p](gambar/5.png.png)
 
+## 4. Menyisipkan gambar
+
+untuk menisipkan gambar,siapkan terlebih dahulu gambar yang ingin dimasukan pada HTML dan sisipkan atau taruh mgambar pada satu folder dengan HTML seperti gambar Berikut:
+
+![p](gambar/6.png.png)
+
 

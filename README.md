@@ -6,6 +6,6 @@
 # Langkah_Langkah Praktikum
 Nama saya Nahrul disini saya akan menjelaskan tentang membuat web dengan HTML
 pertama siapkan  VSCODE dan Browser
-[Lab1Web](gambar/gb.09.png.PNG)
+![p](gambar/gb.09.png.PNG)
 
 

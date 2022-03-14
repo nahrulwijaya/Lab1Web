@@ -10,5 +10,8 @@ pertama siapkan  VSCODE dan Browser
 
 <br>Kemudian buat file baru dengan nama <b> Lab1_tag-dasar.HTML
 ![p](gambar/gb.10.png.PNG)
+Selanjutnya buka file tersebut menggunakan browser.Disini saya menggunakan <b> Google Chrome </b>
+![p](gambar/1.png.PNG)
+
 
 

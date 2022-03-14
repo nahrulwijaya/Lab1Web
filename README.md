@@ -17,5 +17,7 @@ Selanjutnya buka file tersebut menggunakan browser.Disini saya menggunakan <b> G
 Buatlah paragraf baru sederhana seperti berikut ini.dan kemudian lihat hasilnya dengan menrefresh pada web browser
 sebelum jadi
 ![p](gambar/gb.11.png.PNG)
+Hasilnya
+![p](gambar/4.png.png)
 
 

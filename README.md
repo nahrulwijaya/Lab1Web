@@ -40,5 +40,7 @@ untuk menisipkan gambar,siapkan terlebih dahulu gambar yang ingin dimasukan pada
 Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut:
 
 ![p](gambar/pg.15.png)
+Gambar akan di tampilkan apa adanya sesuai ukuran aslinya.untuk mengatur ukuran gambar,dapat menggunakan atribut witdh dan height dengan nilai interget yang di sesuaikan seperti contoh diatas.nanti gambar akan seperti berikut ini:
+![p](gambar/7.png.png)
 
 

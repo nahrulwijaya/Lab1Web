@@ -8,6 +8,6 @@ Nama saya Nahrul disini saya akan menjelaskan tentang membuat web dengan HTML
 pertama siapkan  VSCODE dan Browser
 ![p](gambar/gb.09.png.PNG)
 <br> Kemudian buat file baru dengan nama <b> Lab1_tag-dasar.HTML
-! [P](GAMBAR/gb.10.png.PNG)
+![P](GAMBAR/gb.10.png.PNG)
 
 

@@ -45,11 +45,15 @@ Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 
 Gambar akan di tampilkan apa adanya sesuai ukuran aslinya.untuk mengatur ukuran gambar,dapat menggunakan atribut witdh dan height dengan nilai interget yang di sesuaikan seperti contoh diatas.nanti gambar akan seperti berikut ini:
 ![p](gambar/7.png.png)
 
-## 5. Menambahkan Hyper Links
+## 5. Menambahkan Hyperlink
 
-Tambahkan Hyper Links pada dokumen sebelum heading 1 seperti gambar berikut:
+Tambahkan Hyperlink pada dokumen sebelum heading 1 seperti gambar berikut:
 
 ![p](gambar/pg.15.png)
+
+Nanti Hyperlink akan berada diatas seperti gambar berikut:
+
+![p](gambar/7.png.png)
 
 
 

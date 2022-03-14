@@ -14,6 +14,7 @@ Selanjutnya buka file tersebut menggunakan browser.Disini saya menggunakan <b> G
 ![p](gambar/1.png.PNG)
 
 ## 1. Membuat Paragraf Baru
+
 Buatlah paragraf baru sederhana seperti berikut ini.dan kemudian lihat hasilnya dengan menrefresh pada web browser
 sebelum jadi
 ![p](gambar/gb.11.png.PNG)
@@ -24,6 +25,7 @@ sebelum jadi
 Simpan dan lihat perubahan
 
 ## 3. Memformat Teks
+
 Lakukan performatan teks yang ada pada paragraf yang sudah ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
 masukan code teks seperti berikut untuk melihat perubahan
 ![p](gambar/pg.14.png.png)
@@ -39,8 +41,17 @@ untuk menisipkan gambar,siapkan terlebih dahulu gambar yang ingin dimasukan pada
 
 Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut:
 
-![p](gambar/pg.15.png)
+![p](gambar/pg.14.png.png.png)
 Gambar akan di tampilkan apa adanya sesuai ukuran aslinya.untuk mengatur ukuran gambar,dapat menggunakan atribut witdh dan height dengan nilai interget yang di sesuaikan seperti contoh diatas.nanti gambar akan seperti berikut ini:
 ![p](gambar/7.png.png)
+
+## 5. Menambahkan Hyper Links
+
+Tambahkan Hyper Links pada dokumen sebelum heading 1 seperti gambar berikut:
+
+![p](gambar/pg.15.png)
+
+
+
 
 

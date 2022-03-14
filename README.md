@@ -17,7 +17,7 @@ Selanjutnya buka file tersebut menggunakan browser.Disini saya menggunakan <b> G
 Buatlah paragraf baru sederhana seperti berikut ini.dan kemudian lihat hasilnya dengan menrefresh pada web browser
 sebelum jadi
 ![p](gambar/gb.11.png.PNG)
-##Hasilnya
+## Hasilnya
 
 ![p](gambar/4.png.png)
 
@@ -27,5 +27,8 @@ Simpan dan lihat perubahan
 Lakukan performatan teks yang ada pada paragraf yang sudah ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
 masukan code teks seperti berikut untuk melihat perubahan
 ![p](gambar/pg.14.png.png)
+Dan hasilnya akan seperti ini
+
+![p](gambar/5.png.png)
 
 

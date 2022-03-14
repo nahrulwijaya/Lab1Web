@@ -37,4 +37,8 @@ untuk menisipkan gambar,siapkan terlebih dahulu gambar yang ingin dimasukan pada
 
 ![p](gambar/6.png.png)
 
+Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut:
+
+![p](gambar/pg.15.png)
+
 

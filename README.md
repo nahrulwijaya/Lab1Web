@@ -28,7 +28,7 @@ Simpan dan lihat perubahan
 
 Lakukan performatan teks yang ada pada paragraf yang sudah ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
 masukan code teks seperti berikut untuk melihat perubahan
-![p](gambar/gb.12.png.PNG)
+![p](gambar/pg.14.png.png)
 Dan hasilnya akan seperti ini
 
 ![p](gambar/5.png.png)
@@ -41,7 +41,7 @@ untuk menisipkan gambar,siapkan terlebih dahulu gambar yang ingin dimasukan pada
 
 Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut:
 
-![p](gambar/pg.14.png.png.png)
+![p](gambar/16.png.png)
 
 Gambar akan di tampilkan apa adanya sesuai ukuran aslinya.untuk mengatur ukuran gambar,dapat menggunakan atribut witdh dan height dengan nilai interget yang di sesuaikan seperti contoh diatas.nanti gambar akan seperti berikut ini:
 ![p](gambar/7.png.png)
